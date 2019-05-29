@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+}
+
+@media screen and (min-width:600px){
+    body{
+        height: 1958px;
+        background: url("diseño.png");
+        background-position: top center;    
+        background-color: #484c56;
+        background-repeat: no-repeat;
+    }
+}
