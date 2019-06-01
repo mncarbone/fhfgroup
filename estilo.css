@@ -4,7 +4,11 @@
 }
 
 body{
-
+        height: 5478px;
+        background: url("diseño-mobil.png");
+        background-position: top center;    
+        background-color: #484c56;
+        background-repeat: no-repeat;
 }
 
 @media screen and (min-width:600px){
